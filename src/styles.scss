@@ -1,0 +1,19 @@
+/* You can add global styles to this file, and also import other style files */
+
+html {
+    background-color: #fff;
+    padding: 60px;
+    font-family: 'Saira Extra Condensed', sans-serif;
+    // font-family: 'Ubuntu Condensed', sans-serif;
+    // font-family: 'Yanone Kaffeesatz', sans-serif;
+}
+
+:root{
+  --black: #000;
+  --white: #fff;
+  --map-base-color: #f0f0f0;
+  --map-fill-color: #f0f0f0;
+  --map-stroke-color: #000;
+  --font-color: #000;
+  --font-size-accessory: 14px;
+}
